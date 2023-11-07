@@ -10,3 +10,8 @@ Create a simple calendar application that allows a user to save events for each 
 7. Created timeframe
 8. Blocks can be typed and cleared whenever
 9. Making the calendar accessible to deskop and mobile
+
+
+Creator and founder: Patric Xiong
+Reason: For class purposes only
+email: pathlub@gmail.com
